@@ -1,6 +1,5 @@
 === Custom Pingback Email ===
 Contributors:      tannermoushey
-Donate link:       http://wordpress.org/extend/plugins
 Tags:              pingback, trackback, custom email
 Requires at least: 3.5.1
 Tested up to:      3.5.1
