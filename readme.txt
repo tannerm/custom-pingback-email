@@ -1,7 +1,7 @@
 === Custom Pingback Email ===
-Contributors:      10up
+Contributors:      tannermoushey
 Donate link:       http://wordpress.org/extend/plugins
-Tags: 
+Tags:              pingback, trackback, custom email
 Requires at least: 3.5.1
 Tested up to:      3.5.1
 Stable tag:        0.1.0
@@ -11,7 +11,7 @@ License URI:       http://www.gnu.org/licenses/gpl-2.0.html
 Add the option for a pingback notification to go to an email other than the site admin email.
 
 == Description ==
-
+Custom Pingback Email adds a new field to the General Settings page to specify a custom email address to send pingbacks and trackbacks to. This disables notifications for the default site admin and the post authors for Pingbacks and Trackbacks.
 
 
 == Installation ==
